@@ -1,6 +1,7 @@
 {
     "name": "bsadjetey/ussdsimulator",
     "description": "Simple USSD simulator app",
+    "license": "MIT",
     "authors": [
         {
             "name": "Bernard Adjetey",
@@ -22,6 +23,5 @@
         "psr-4": {
             "Bsadjetey\\UssdSimulator\\": "src"
         }
-    },
-    "license": "MIT",
+    }
 }
