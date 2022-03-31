@@ -22,5 +22,6 @@
         "psr-4": {
             "Bsadjetey\\UssdSimulator\\": "src"
         }
-    }
+    },
+    "license": "MIT",
 }
